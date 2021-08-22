@@ -1,0 +1,1 @@
+insert into tb_client (name, cpf, income, birthDate, children) values ("Jose Jair","12345679834",70000.0,"1972-11-25T10:30:00Z",3);
